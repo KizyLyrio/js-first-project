@@ -1,0 +1,26 @@
+{
+  "name": "angular-first-project",
+  "version": "1.0.0",
+  "description": "projeto simples com angular,grunt e bower",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobsenanaizabel/angular-first-project.git"
+  },
+  "author": "Ana Izabel Jacobsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobsenanaizabel/angular-first-project/issues"
+  },
+  "homepage": "https://github.com/jacobsenanaizabel/angular-first-project#readme"
+}

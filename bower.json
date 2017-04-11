@@ -1,0 +1,20 @@
+{
+  "name": "js-first-project",
+  "description": "projeto simples com angular,grunt e bower",
+  "main": "index.html",
+  "authors": [
+    "kizy"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.2.1"
+  }
+}

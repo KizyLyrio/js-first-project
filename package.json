@@ -1,5 +1,5 @@
 {
-  "name": "angular-first-project",
+  "name": "js-first-project",
   "version": "1.0.0",
   "description": "projeto simples com angular,grunt e bower",
   "main": "index.js",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jacobsenanaizabel/angular-first-project.git"
+    "url": "git+https://github.com/kizylyrio/js-first-project.git"
   },
-  "author": "Ana Izabel Jacobsen",
+  "author": "Kizy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jacobsenanaizabel/angular-first-project/issues"
+    "url": "https://github.com/kizylyrio/js-first-project/issues"
   },
-  "homepage": "https://github.com/jacobsenanaizabel/angular-first-project#readme"
+  "homepage": "https://github.com/kizylyrio/js-first-project#readme"
 }
